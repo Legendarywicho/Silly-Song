@@ -1,2 +1,2 @@
 # Silly-song
-First IOS app to undestan swift fundamentals and IOS development 
+First IOS app to understand swift fundamentals and IOS patterns 
